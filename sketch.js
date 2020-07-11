@@ -4,7 +4,7 @@ var circle_dots = 0;
 var inp;
 
 function setup() {
-  createCanvas(720, 800);
+  createCanvas(900, 600);
   background(0);
   translate(width / 2, height / 2);
   stroke(255);
